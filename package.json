@@ -1,0 +1,18 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "@caitken-com/node-red-contrib-json2mysql": "~1.2.0",
+        "@flowfuse/node-red-dashboard": "~1.7.1",
+        "@flowfuse/node-red-dashboard-2-ui-led": "~1.0.0",
+        "node-red-contrib-mdashboard": "~2.19.4-beta",
+        "node-red-contrib-moment": "~5.0.0",
+        "node-red-contrib-mysql-config": "~1.0.4",
+        "node-red-contrib-string": "~1.0.0",
+        "node-red-contrib-ui-led": "~0.4.11",
+        "node-red-dashboard": "~3.6.5",
+        "node-red-node-mysql": "~2.0.0"
+    }
+}
